@@ -25,4 +25,5 @@ def find_the_cheese(array)
     array.each do |cheese|
       cheese)
     end
+  end
 end
