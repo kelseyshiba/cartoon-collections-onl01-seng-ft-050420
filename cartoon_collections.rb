@@ -26,7 +26,7 @@ def find_the_cheese(array)
     cheeses = []
     cheeses << cheese
     if cheese == true
-      true
+      cheeses
     else
       nil    
     end
