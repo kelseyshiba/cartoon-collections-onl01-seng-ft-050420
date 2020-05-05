@@ -25,5 +25,4 @@ def find_the_cheese(array)
   array.include?(cheese_types) do |cheese|
     cheese.detect?
   end
-  end
 end
